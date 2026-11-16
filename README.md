@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Hardware AI Assistant
 
 A command-line AI assistant that answers questions about a Linux computer's hardware using real system information and LLM tool calling.
